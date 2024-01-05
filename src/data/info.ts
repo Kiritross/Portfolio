@@ -80,7 +80,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/IA-DirectionalBlocks.png",
       githubUrl: "https://github.com/Kiritross/IADirectionalBlocks",
-      liveUrl: "https://kiritross.net/projects",
+      liveUrl: "https://www.kiritross.net/projects",
     },
   ],
 };
