@@ -1,0 +1,24 @@
+---
+import Navbar from "@components/general/Navbar.astro";
+import Hero from "@components/home/Hero.astro";
+import "../styles/style.css";
+---
+
+<html lang="en">
+  <head></head>
+
+  <script>
+    // Wait for 5 seconds before redirecting
+    setTimeout(() => {
+      window.location.href = "/"; // Change this to the actual home page URL
+    }, 3000);
+  </script>
+
+  <body>
+    <Navbar />
+    <main class="container">
+      <h1>Error 404 | Not found</h1>
+      <p class="dark:text-light text-lg mb-16">Redirecting to home page...</p>
+    </main>
+  </body>
+</html>
