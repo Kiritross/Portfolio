@@ -76,7 +76,7 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "IA Directional Blocks",
       isFeatured: true,
       thumbnail: "/assets/images/IA-DirectionalBlocks.png",
       githubUrl: "https://github.com/Kiritross/IADirectionalBlocks",
