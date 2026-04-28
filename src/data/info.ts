@@ -2,49 +2,20 @@ export const info = {
   baseUrl: "https://kiritross.net",
   name: "Kiritross",
   jobDescription: "Cross-platform developer",
-  about: `I am a Minecraft configurator from Spain. 
-  I have more than 4 years of experience in the world of configuration, plugin development, resource management and many other aspects. 
-  I've worked in several servers throughout my learning period, going through Cataclism Network, Voltyum Network, etc. Currently you can find me at RedMC Network. 
-  If you have any questions you can contact me by Discord under the nick "Kiritross".
-  `,
+  about: `I am a young enthusiast of networks and communication, with a passion for technology and software development. My goal is to become a highly skilled professional in the field of computer science, with a special focus on systems and network administration. I strive to gain solid knowledge and practical skills to face the technological challenges of the future. I am committed to continuous learning and to contributing to the advancement of technology through my work and dedication.`,
 
   experience: [
     {
-      name: "RedMC Network",
-      location: "Spain",
-      startDate: "Jan 2022",
-      endDate: "Present",
+      name: "INTEGRACIONES DIGITALES GOLD S.L.",
+      location: "Calle Garrotxa, 6-8. Floor 2. Office 3, Mas Blau Business Park, 08820 El Prat de Llobregat",
+      startDate: "April 2023",
+      endDate: "August 2025",
       description: [
-        "✓ Head dev of the network",
-        "✓ Improving safety, performance and comfort",
-        "✓ Developing plugins for the network",
-        "✓ Security and performance audits",
-        "✓ System administration",
-      ],
-    },
-
-    {
-      name: "Voltyum Network",
-      location: "Spain",
-      startDate: "Feb 2023",
-      endDate: "Jun 2023",
-      description: [
-        "✓ Configurator of the network",
-        "✓ Improving gameplay and adding new features",
-      ],
-    },
-
-    {
-      name: "Cataclism Network",
-      location: "Spain",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "✓ Head dev of the network",
-        "✓ Improving safety, performance and comfort",
-        "✓ Developing plugins for the network",
-        "✓ Security and performance audits",
-        "✓ System administration",
+        "✓ Administration and maintenance of IT equipment",
+        "✓ Networking and communication",
+        "✓ Technical support and user assistance",
+        "✓ Cybersecurity and data protection",
+        "✓ Automation and virtualization",
       ],
     },
   ],
@@ -55,16 +26,21 @@ export const info = {
       location: "Castelldefels, Barcelona, Spain",
       startDate: "2019",
       endDate: "2022",
-      description: [
-        "ESO (Educación Secundaria Obligatoria) - High School Diploma",
-      ],
+      description: ["ESO - High School Diploma"],
     },
     {
       name: "INS Mediterrània",
       location: "Castelldefels, Barcelona, Spain",
       startDate: "2023",
-      endDate: "Present",
-      description: ["CFGM (Ciclo Formativo de Grado Medio) - Intermediate Vocational Training Program"],
+      endDate: "2025",
+      description: ["CFGM (SMIX) - Intermediate Vocational Training Program"],
+    },
+    {
+      name: "INS Esteve Terradas i Illa",
+      location: "Cornellà, Barcelona, Spain",
+      startDate: "2025",
+      endDate: "2026",
+      description: ["CFGS (ASIR) - Higher Vocational Training Program"],
     },
   ],
 
@@ -80,6 +56,13 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/IA-DirectionalBlocks.png",
       githubUrl: "https://github.com/Kiritross/IADirectionalBlocks",
+      liveUrl: "https://kiritross.net/projects",
+    },
+    {
+      title: "Vaper-UHC",
+      isFeatured: true,
+      thumbnail: "/assets/images/Vaper-UHC.png",
+      githubUrl: "https://github.com/Kiritross/Vaper-UHC",
       liveUrl: "https://kiritross.net/projects",
     },
   ],
